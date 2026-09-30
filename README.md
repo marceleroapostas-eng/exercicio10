@@ -1,8 +1,8 @@
-\# Exercício 10 - Soma de Dois Números
+# Exercício 10 - Soma de Dois Números
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa solicita dois números inteiros ao usuário, realiza a soma dos va
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém dois números inteiros informados pelo usuário.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta o resultado da soma caso o valor seja maior que 10.
 
 
 
-\## Autor
+## Autor
 
 
 
